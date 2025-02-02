@@ -1,3 +1,8 @@
+OFC THIS CODE DOESNT WORK ON CLONING!!!!!!
+THIS FILE IS JUST FOR REFERENCES AND READING ONLY!!!!!!
+
+
+
 "use strict"; // to prevent us from overwriting important variables
 const c = "constant"; // a constant value, assignment to c is no longer allowed
 let v = "variable"; // a primitive variable
