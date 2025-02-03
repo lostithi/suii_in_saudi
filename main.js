@@ -160,7 +160,10 @@ STEPS FOR D3 (initial)  {REFER}
 3)Appending elements and groups
 4)Binding data
 5)Join() for each elements{Adding}
-6)Classed()-{Styling}
+6)Classed()-{Styling} == USed to manipulate classes.{CSS class used for grouping and Styling on DOMs}
+      EG:-
+        classed('barchart',true)==>Add class named "barchart" to SVG element.
+                ===>GEnerally used to access CSS classes using this.
 
 
 
