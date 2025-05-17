@@ -1,0 +1,27 @@
+.x-axis text,
+.y-axis text {
+  fill: #757C85;
+  font-size: 16px;
+}
+
+.grid line {
+  stroke: #C8C9C9;
+}
+
+.bar-label {
+  text-anchor: middle;
+  fill: white;
+  font-size: 14px;
+}
+
+.total-label {
+  text-anchor: middle;
+  fill: #101628;
+  font-size: 20px;
+}
+
+.legend-label {
+  text-anchor: start;
+  alignment-baseline: middle;
+  font-size: 16px;
+}
